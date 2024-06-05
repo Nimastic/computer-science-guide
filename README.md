@@ -13,7 +13,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Open-Source Contributions](#open-source-contributions)
 
 ## Interview Preparation
-[Interview Prep by Woo Jia Hao]([https://interviews.woojiahao.com/])
+[Interview Prep by Woo Jia Hao](https://interviews.woojiahao.com/)
 
 ## University Modules
 
