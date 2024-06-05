@@ -1,17 +1,16 @@
-# My guide to Computer Science
-If I could go back in time to give my younger self advice, or a road map, I would send them this link.
+## My Guide to Computer Science
 
-Inspired by the famous build-your-own-x
+If I could go back in time to give my younger self advice or a road map, I would send them this link. This guide is inspired by the famous "build-your-own-x."
 
 ## Table of Contents
-This repository is a compilation of well-written, step-by-step guides in the field of CS 
+This repository is a compilation of well-written, step-by-step guides in the field of Computer Science.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
-#Interview Preparation
-#University Modules
-#Projects
-#Open-Source Contributions
+- [Interview Preparation](#interview-preparation)
+- [University Modules](#university-modules)
+- [Projects](#projects)
+- [Open-Source Contributions](#open-source-contributions)
 
 ## Interview Preparation
 
@@ -21,5 +20,4 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 ## Open-Source Contributions
 
-[Open-Source Guide by GitHub](https://opensource.guide/}
-
+[Open-Source Guide by GitHub](https://opensource.guide/)
