@@ -14,8 +14,22 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 ## Interview Preparation
 [Interview Prep by Woo Jia Hao](https://interviews.woojiahao.com/)
+[Technical Interview Handbook](https://www.techinterviewhandbook.org/)
+[NeetcodeIO roadmap](https://neetcode.io/roadmap)
 
-## University Modules
+## University Modules (NUS)
+CS1101S Programming Methodology I
+CS1231S Discrete Mathematics
+CS2030S Programming Methodology II (OOP & Functional Programming)
+CS2040S Data Structures and Algorithms
+CS2100 Computer Organisation
+CS2102 Database Systems
+CS2109S Introduction to AI and Machine Learning
+CS2105 Introduction to Computer Networks
+CS3230 Design and Analysis of Algorithms
+CS2106 Introduction to Operating Systems
+CS2101 Effective Communication for Computing Professionals
+CS2103T Software Engineering
 
 ## Projects
 
