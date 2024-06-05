@@ -8,6 +8,11 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
+#Interview Preparation
+#University Modules
+#Projects
+#Open-Source Contributions
+
 ## Interview Preparation
 
 ## University Modules
