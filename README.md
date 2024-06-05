@@ -35,5 +35,5 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 ## Open-Source Contributions
 
-[Open-Source Guide by GitHub](https://opensource.guide/)
-[Intro to Open Source by GitHub](https://education.github.com/experiences/intro_to_open_source)
+- [Open-Source Guide by GitHub](https://opensource.guide/)
+- [Intro to Open Source by GitHub](https://education.github.com/experiences/intro_to_open_source)
