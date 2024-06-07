@@ -45,6 +45,10 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Full Stack React Chat App](https://youtu.be/i8YFPPx_BYw?si=YTXH72wza-srXXlC)
 - [Minecraft Clone](https://youtu.be/qpOZup_3P_A?si=D2eka00uNBowaDVW)
 - [FreeCodeCamp Learn LangChain](https://youtu.be/HSZ_uaif57o?si=_bVV561sePpWgMQn)
+- [Enterprise-Level Food Ordering App](https://www.youtube.com/watch?v=ardeKHEN1j4&list=WL&index=119&t=6s)
+- [Database Engineering Complete Course](https://www.youtube.com/watch?v=iwRneX7GIGI&list=WL&index=129)
+- [AWS Solution Architect Associate Certification](https://www.youtube.com/watch?v=c3Cn4xYfxJY&list=WL&index=133)
+- 
 
 ## Open-Source Contributions
 
