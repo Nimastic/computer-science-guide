@@ -36,7 +36,8 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [FreeCodeCamp 37 Hours Deep Learning for Computer Vision Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&list=WL&index=1&t=60s&pp=gAQBiAQB)
 - [FreeCodeCamp PERN Stack Course](https://www.youtube.com/watch?v=ldYcgPKEZC8&list=WL&index=3&pp=gAQBiAQB)
 - [FreeCodeCamp Augmented Reality Course](https://www.youtube.com/watch?v=WzfDo2Wpxks&list=WL&index=4&pp=gAQBiAQB)
-- [Full Stack MERN Login Page](https://www.youtube.com/watch?v=XPC81RWOItI)
+- [MERN Full Stack Login Page](https://www.youtube.com/watch?v=XPC81RWOItI)
+- [PERN Stack Chat App](https://www.youtube.com/watch?v=vL24eiwAG_g)
 - 
 
 ## Open-Source Contributions
