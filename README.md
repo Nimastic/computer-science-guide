@@ -38,6 +38,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [FreeCodeCamp Augmented Reality Course](https://www.youtube.com/watch?v=WzfDo2Wpxks&list=WL&index=4&pp=gAQBiAQB)
 - [MERN Full Stack Login Page](https://www.youtube.com/watch?v=XPC81RWOItI)
 - [PERN Stack Chat App](https://www.youtube.com/watch?v=vL24eiwAG_g)
+- [FreeCodeCamp Swift Programming Course](https://youtu.be/8Xg7E9shq0U?si=japt6qaWhMCluyVh)
 - 
 
 ## Open-Source Contributions
