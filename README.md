@@ -39,7 +39,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [MERN Full Stack Login Page](https://www.youtube.com/watch?v=XPC81RWOItI)
 - [PERN Stack Chat App](https://www.youtube.com/watch?v=vL24eiwAG_g)
 - [FreeCodeCamp Swift Programming Course](https://youtu.be/8Xg7E9shq0U?si=japt6qaWhMCluyVh)
-- 
+- [FreeCodeCamp Python Backend Development Course](https://youtu.be/ftKiHCDVwfA?si=4urqsoGHc7RdyFag)
 
 ## Open-Source Contributions
 
