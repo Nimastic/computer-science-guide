@@ -32,7 +32,11 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - CS2103T Software Engineering
 
 ## Projects
-- [Firebase Login Authentication](https://www.youtube.com/watch?v=b1ULt_No3IY)
+- [Firebase Login Authentication](https://www.youtube.com/watch?v=b1ULt_No3IY
+- [FreeCodeCamp 37 Hours Deep Learning for Computer Vision Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&list=WL&index=1&t=60s&pp=gAQBiAQB)
+- [FreeCodeCamp PERN Stack Course](https://www.youtube.com/watch?v=ldYcgPKEZC8&list=WL&index=3&pp=gAQBiAQB)
+- [FreeCodeCamp Augmented Reality Course](https://www.youtube.com/watch?v=WzfDo2Wpxks&list=WL&index=4&pp=gAQBiAQB)
+- 
 
 ## Open-Source Contributions
 
