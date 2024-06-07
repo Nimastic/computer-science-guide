@@ -32,6 +32,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - CS2103T Software Engineering
 
 ## Projects
+- [Firebase Login Authentication](https://www.youtube.com/watch?v=b1ULt_No3IY)
 
 ## Open-Source Contributions
 
