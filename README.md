@@ -40,6 +40,11 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [PERN Stack Chat App](https://www.youtube.com/watch?v=vL24eiwAG_g)
 - [FreeCodeCamp Swift Programming Course](https://youtu.be/8Xg7E9shq0U?si=japt6qaWhMCluyVh)
 - [FreeCodeCamp Python Backend Development Course](https://youtu.be/ftKiHCDVwfA?si=4urqsoGHc7RdyFag)
+- [Web3 PayPal Clone](https://youtu.be/ftKiHCDVwfA?si=4urqsoGHc7RdyFag)
+- [Instagram Web Clone](https://www.youtube.com/watch?v=1hPgQWbWmEk&list=WL&index=116&t=1791s](https://youtu.be/1hPgQWbWmEk?si=WLlvFTVzsUi962Z9)
+- [Full Stack React Chat App](https://youtu.be/i8YFPPx_BYw?si=YTXH72wza-srXXlC)
+- [Minecraft Clone](https://youtu.be/qpOZup_3P_A?si=D2eka00uNBowaDVW)
+- [FreeCodeCamp Learn LangChain](https://youtu.be/HSZ_uaif57o?si=_bVV561sePpWgMQn)
 
 ## Open-Source Contributions
 
