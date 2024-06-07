@@ -36,6 +36,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [FreeCodeCamp 37 Hours Deep Learning for Computer Vision Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&list=WL&index=1&t=60s&pp=gAQBiAQB)
 - [FreeCodeCamp PERN Stack Course](https://www.youtube.com/watch?v=ldYcgPKEZC8&list=WL&index=3&pp=gAQBiAQB)
 - [FreeCodeCamp Augmented Reality Course](https://www.youtube.com/watch?v=WzfDo2Wpxks&list=WL&index=4&pp=gAQBiAQB)
+- [Full Stack MERN Login Page](https://www.youtube.com/watch?v=XPC81RWOItI)
 - 
 
 ## Open-Source Contributions
@@ -47,5 +48,8 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 ## Hackathon Opportunities
 - [DoraHacks.io](https://dorahacks.io/hackathon)
 - [Devpost](https://devpost.com/hackathons)
+- [Major League Hacking](https://mlh.io/seasons/2024/events)
 
 ## Fellowship
+- [Major League Hacking](https://fellowship.mlh.io/?_gl=1*1e179ky*_ga*NDA2MTA5MTU5LjE3MTU4MDA1MzQ.*_ga_E5KT6TC4TK*MTcxNzgwMDQ5MS4xNi4wLjE3MTc4MDA0OTEuMC4wLjA.)
+- 
