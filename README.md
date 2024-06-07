@@ -31,7 +31,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - CS2101 Effective Communication for Computing Professionals
 - CS2103T Software Engineering
 
-## Projects
+## Projects (Video)
 - [Firebase Login Authentication](https://www.youtube.com/watch?v=b1ULt_No3IY
 - [FreeCodeCamp 37 Hours Deep Learning for Computer Vision Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&list=WL&index=1&t=60s&pp=gAQBiAQB)
 - [FreeCodeCamp PERN Stack Course](https://www.youtube.com/watch?v=ldYcgPKEZC8&list=WL&index=3&pp=gAQBiAQB)
@@ -48,6 +48,10 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Enterprise-Level Food Ordering App](https://www.youtube.com/watch?v=ardeKHEN1j4&list=WL&index=119&t=6s)
 - [Database Engineering Complete Course](https://www.youtube.com/watch?v=iwRneX7GIGI&list=WL&index=129)
 - [AWS Solution Architect Associate Certification](https://www.youtube.com/watch?v=c3Cn4xYfxJY&list=WL&index=133)
+- [Fireship Lab Courses](https://fireship.io/lessons)
+
+## Readings
+- [Dive into Deep Learning](https://d2l.ai/chapter_preface/index.html)
 - 
 
 ## Open-Source Contributions
@@ -62,5 +66,5 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Major League Hacking](https://mlh.io/seasons/2024/events)
 
 ## Fellowship
-- [Major League Hacking](https://fellowship.mlh.io/?_gl=1*1e179ky*_ga*NDA2MTA5MTU5LjE3MTU4MDA1MzQ.*_ga_E5KT6TC4TK*MTcxNzgwMDQ5MS4xNi4wLjE3MTc4MDA0OTEuMC4wLjA.)
-- 
+- [Major League Hacking Fellowship](https://fellowship.mlh.io/?_gl=1*1e179ky*_ga*NDA2MTA5MTU5LjE3MTU4MDA1MzQ.*_ga_E5KT6TC4TK*MTcxNzgwMDQ5MS4xNi4wLjE3MTc4MDA0OTEuMC4wLjA.)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
