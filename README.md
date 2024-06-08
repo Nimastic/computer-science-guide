@@ -71,3 +71,4 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 ## Other Resources
 - [Project Based Learning Repo](https://github.com/practical-tutorials/project-based-learning)
 - [List of Open Source Internship Repo](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
+- [DevOps Exercises Repo](https://github.com/bregman-arie/devops-exercises)
