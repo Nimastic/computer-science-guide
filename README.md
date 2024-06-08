@@ -70,6 +70,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 ## Internship
 - [2024 Singapore Summer Tech Internship](https://github.com/kxrt/Singapore-Summer2024-TechInternships)
+- [Open Source Internship Programmes](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
 ## Other Resources
 - [Project Based Learning Repo](https://github.com/practical-tutorials/project-based-learning)
