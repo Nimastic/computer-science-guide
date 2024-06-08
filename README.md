@@ -68,7 +68,12 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Major League Hacking Fellowship](https://fellowship.mlh.io/?_gl=1*1e179ky*_ga*NDA2MTA5MTU5LjE3MTU4MDA1MzQ.*_ga_E5KT6TC4TK*MTcxNzgwMDQ5MS4xNi4wLjE3MTc4MDA0OTEuMC4wLjA.)
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
+## Internship
+- [2024 Singapore Summer Tech Internship](https://github.com/kxrt/Singapore-Summer2024-TechInternships)
+
 ## Other Resources
 - [Project Based Learning Repo](https://github.com/practical-tutorials/project-based-learning)
 - [List of Open Source Internship Repo](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 - [DevOps Exercises Repo](https://github.com/bregman-arie/devops-exercises)
+
+  
