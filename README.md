@@ -55,7 +55,6 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - 
 
 ## Open-Source Contributions
-
 - [Open-Source Guide by GitHub](https://opensource.guide/)
 - [Intro to Open Source by GitHub](https://education.github.com/experiences/intro_to_open_source)
 - [Intro to Open Source by OpenSauced](https://intro.opensauced.pizza/#/intro-to-oss/)
@@ -71,4 +70,4 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 ## Other Resources
 - [Project Based Learning Repo](https://github.com/practical-tutorials/project-based-learning)
-- 
+- [List of Open Source Internship Repo](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
