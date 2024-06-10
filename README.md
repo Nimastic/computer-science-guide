@@ -53,6 +53,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 ## Readings
 - [Dive into Deep Learning](https://d2l.ai/chapter_preface/index.html)
+- [FastAI Deep Learning](https://course.fast.ai/)
 
 ## Open-Source Contributions
 - [Open-Source Guide by GitHub](https://opensource.guide/)
