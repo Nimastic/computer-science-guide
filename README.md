@@ -31,7 +31,8 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - CS2101 Effective Communication for Computing Professionals
 - CS2103T Software Engineering
 
-## Projects (Video)
+## Projects and Courses (Video)
+- [Harvard CS50 Full Course 25 Hours](https://www.youtube.com/watch?v=8mAITcNt710&t=32s)
 - [Firebase Login Authentication](https://www.youtube.com/watch?v=b1ULt_No3IY)
 - [FreeCodeCamp 37 Hours Deep Learning for Computer Vision Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ&list=WL&index=1&t=60s&pp=gAQBiAQB)
 - [FreeCodeCamp PERN Stack Course](https://www.youtube.com/watch?v=ldYcgPKEZC8&list=WL&index=3&pp=gAQBiAQB)
