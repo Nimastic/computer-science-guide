@@ -50,6 +50,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Database Engineering Complete Course](https://www.youtube.com/watch?v=iwRneX7GIGI&list=WL&index=129)
 - [AWS Solution Architect Associate Certification](https://www.youtube.com/watch?v=c3Cn4xYfxJY&list=WL&index=133)
 - [Fireship Lab Courses](https://fireship.io/lessons)
+- [FreeCodeCamp Learn RAG from Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
 
 ## Readings
 - [Dive into Deep Learning](https://d2l.ai/chapter_preface/index.html)
