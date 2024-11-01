@@ -32,7 +32,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - CS2103T Software Engineering
 
 ## Projects and Courses (Video)
-- [FullStack Open from University of Helsinki (comes with certificates)](https://fullstackopen.com/en/about/)
+- [FullStack Open from University of Helsinki (comes with certificate)](https://fullstackopen.com/en/about/)
 - [Odin Project, Fullstack Ruby on Rails or JavaScript](https://www.theodinproject.com/paths)
 - [Build an LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [Harvard CS50 Full Course 25 Hours](https://www.youtube.com/watch?v=8mAITcNt710&t=32s)
