@@ -71,7 +71,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [List of Open Source Internship Repo](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 - [DevOps Exercises Repo](https://github.com/bregman-arie/devops-exercises)
 - [InfoSec Resources Repo](https://github.com/stong/infosec-resources)
-
+- [New Grad Machine Learning Interview Guide](https://docs.google.com/document/u/0/d/1Zjyc4v1fYPI4t-0M31P1tJr0zW55VkFKu7YWJoBhDOs/mobilebasic#heading=h.jjmmcaur5em)
 
 ## University Modules (NUS)
 - CS1101S Programming Methodology I
