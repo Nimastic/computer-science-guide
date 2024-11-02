@@ -17,6 +17,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Interview Prep by Woo Jia Hao](https://interviews.woojiahao.com/)
 - [Technical Interview Handbook](https://www.techinterviewhandbook.org/)
 - [NeetcodeIO roadmap](https://neetcode.io/roadmap)
+- [Google DSA Technical Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 
 ## Projects and Courses (Video)
 - [FullStack Open from University of Helsinki (comes with certificate)](https://fullstackopen.com/en/about/)
