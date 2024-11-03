@@ -20,9 +20,15 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Google DSA Technical Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Mock Interview Prep](https://www.hellointerview.com)
 
-## Projects and Courses (Video)
+## Introduction to Fullstack Project Development:
 - [FullStack Open from University of Helsinki (comes with certificate)](https://fullstackopen.com/en/about/)
 - [Odin Project, Fullstack Ruby on Rails or JavaScript](https://www.theodinproject.com/paths)
+- [MERN Stack Tutorial by MongoDB](https://www.mongodb.com/resources/languages/mern-stack-tutorial)
+- [CS50's Webprogramming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+- [freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/)
+- [GraphQL with React & Apollo](https://www.youtube.com/playlist?list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx)
+
+## Projects and Courses
 - [Build an LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [Harvard CS50 Full Course 25 Hours](https://www.youtube.com/watch?v=8mAITcNt710&t=32s)
 - [Firebase Login Authentication](https://www.youtube.com/watch?v=b1ULt_No3IY)
