@@ -51,6 +51,8 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [FreeCodeCamp Learn RAG from Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
 
 ## Readings
+- [Introduction to Git by Github](https://docs.github.com/en/get-started/using-git/about-git)
+- [freeCodeCamp Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [Dive into Deep Learning](https://d2l.ai/chapter_preface/index.html)
 - [FastAI Deep Learning](https://course.fast.ai/)
 
