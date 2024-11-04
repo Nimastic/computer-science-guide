@@ -19,6 +19,8 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [NeetcodeIO roadmap](https://neetcode.io/roadmap)
 - [Google DSA Technical Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Mock Interview Prep](https://www.hellointerview.com)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design Youtube Videos](https://www.youtube.com/playlist?list=PLjTveVh7FakJOoY6GPZGWHHl4shhDT8iV)
 
 ## Introduction to Fullstack Project Development:
 - [FullStack Open from University of Helsinki (comes with certificate)](https://fullstackopen.com/en/about/)
