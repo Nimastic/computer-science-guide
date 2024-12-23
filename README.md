@@ -21,6 +21,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Mock Interview Prep](https://www.hellointerview.com)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design Youtube Videos](https://www.youtube.com/playlist?list=PLjTveVh7FakJOoY6GPZGWHHl4shhDT8iV)
+- [Frontend Interview Prep by GreatFrontend (Creator of Grind75 & Blind75)](https://www.greatfrontend.com/interviews/get-started)
 
 ## Introduction to Fullstack Project Development:
 - [FullStack Open from University of Helsinki (comes with certificate)](https://fullstackopen.com/en/about/)
