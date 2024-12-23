@@ -86,6 +86,7 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [New Grad Machine Learning Interview Guide](https://docs.google.com/document/u/0/d/1Zjyc4v1fYPI4t-0M31P1tJr0zW55VkFKu7YWJoBhDOs/mobilebasic#heading=h.jjmmcaur5em)
 - [FreeCodeCamp Project Euler](https://www.freecodecamp.org/learn/project-euler/)
 - [FreeCodeCamp Rosetta Code](https://www.freecodecamp.org/learn/rosetta-code/)
+- [Build Your Own X](https://build-your-own-x.vercel.app/)
 
 ## University Modules (NUS)
 - CS1101S Programming Methodology I
