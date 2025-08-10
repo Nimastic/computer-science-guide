@@ -22,13 +22,13 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [Frontend Interview Prep by GreatFrontend (Creator of Grind75 & Blind75)](https://www.greatfrontend.com/interviews/get-started)
 
 ## System Design Preparation
-- [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer) — A comprehensive and continually updated repository for designing large-scale systems :contentReference[oaicite:1]{index=1}
-- [Grokking the System Design Interview (DesignGurus)](https://www.designgurus.io/course/grokking-the-system-design-interview) — A structured course created by ex-FAANG hiring managers :contentReference[oaicite:2]{index=2}
-- [Designing Data-Intensive Applications (Official Site)](https://dataintensive.net/) — The book’s official page with insights and purchase information :contentReference[oaicite:3]{index=3}
+- [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer) — A comprehensive and continually updated repository for designing large-scale systems
+- [Grokking the System Design Interview (DesignGurus)](https://www.designgurus.io/course/grokking-the-system-design-interview) — A structured course created by ex-FAANG hiring managers
+- [Designing Data-Intensive Applications (Official Site)](https://dataintensive.net/) — The book’s official page with insights and purchase information
 
 ## Product Methodology & Manager Preparation
-- [IGotAnOffer: Google Product Manager Interview Guide](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview) — Detailed process overview, real example questions, and preparation plan :contentReference[oaicite:5]{index=5}
-- [Shape Up by Ryan Singer (Basecamp)](https://basecamp.com/shapeup) — Methods and mindset for shipping meaningful work :contentReference[oaicite:4]{index=4}
+- [IGotAnOffer: Google Product Manager Interview Guide](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview) — Detailed process overview, real example questions, and preparation plan
+- [Shape Up by Ryan Singer (Basecamp)](https://basecamp.com/shapeup) — Methods and mindset for shipping meaningful work
 
 
 
