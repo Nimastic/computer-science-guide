@@ -23,15 +23,13 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 
 ## System Design Preparation
 - [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer) — A comprehensive and continually updated repository for designing large-scale systems
+- [System Design Youtube Videos](https://www.youtube.com/playlist?list=PLjTveVh7FakJOoY6GPZGWHHl4shhDT8iV)
 - [Grokking the System Design Interview (DesignGurus)](https://www.designgurus.io/course/grokking-the-system-design-interview) — A structured course created by ex-FAANG hiring managers
 - [Designing Data-Intensive Applications (Official Site)](https://dataintensive.net/) — The book’s official page with insights and purchase information
 
 ## Product Methodology & Manager Preparation
 - [IGotAnOffer: Google Product Manager Interview Guide](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview) — Detailed process overview, real example questions, and preparation plan
 - [Shape Up by Ryan Singer (Basecamp)](https://basecamp.com/shapeup) — Methods and mindset for shipping meaningful work
-
-
-
 
 ## Introduction to Fullstack Project Development:
 - [FullStack Open from University of Helsinki (comes with certificate)](https://fullstackopen.com/en/about/)
