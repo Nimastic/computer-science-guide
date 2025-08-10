@@ -19,9 +19,19 @@ This repository is a compilation of well-written, step-by-step guides in the fie
 - [NeetcodeIO roadmap](https://neetcode.io/roadmap)
 - [Google DSA Technical Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Mock Interview Prep](https://www.hellointerview.com)
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [System Design Youtube Videos](https://www.youtube.com/playlist?list=PLjTveVh7FakJOoY6GPZGWHHl4shhDT8iV)
 - [Frontend Interview Prep by GreatFrontend (Creator of Grind75 & Blind75)](https://www.greatfrontend.com/interviews/get-started)
+
+## System Design Preparation
+- [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer) — A comprehensive and continually updated repository for designing large-scale systems :contentReference[oaicite:1]{index=1}
+- [Grokking the System Design Interview (DesignGurus)](https://www.designgurus.io/course/grokking-the-system-design-interview) — A structured course created by ex-FAANG hiring managers :contentReference[oaicite:2]{index=2}
+- [Designing Data-Intensive Applications (Official Site)](https://dataintensive.net/) — The book’s official page with insights and purchase information :contentReference[oaicite:3]{index=3}
+
+## Product Methodology & Manager Preparation
+- [IGotAnOffer: Google Product Manager Interview Guide](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview) — Detailed process overview, real example questions, and preparation plan :contentReference[oaicite:5]{index=5}
+- [Shape Up by Ryan Singer (Basecamp)](https://basecamp.com/shapeup) — Methods and mindset for shipping meaningful work :contentReference[oaicite:4]{index=4}
+
+
+
 
 ## Introduction to Fullstack Project Development:
 - [FullStack Open from University of Helsinki (comes with certificate)](https://fullstackopen.com/en/about/)
